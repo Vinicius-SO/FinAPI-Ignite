@@ -12,8 +12,8 @@ Abaixo temos os requisitos de funcionamento da API e todas as suas regras de neg
 - [x] Deve ser possivel realizar um deposito 
 - [x] Deve ser possivel realizar um saque
 - [x] Deve ser possivel buscar o extrato bancário do cliente por data 
-- [] Deve ser possivel atualizar dados da conta do cliente
-- [] Deve ser possivel obter dados da conta do cliente
+- [x] Deve ser possivel atualizar dados da conta do cliente
+- [x] Deve ser possivel obter dados da conta do cliente
 - [] Deve ser possivel deletar uma conta
 
 
